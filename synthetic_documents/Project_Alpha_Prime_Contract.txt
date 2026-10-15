@@ -1,0 +1,40 @@
+--- PAGE 1 ---
+MASTER SERVICES AGREEMENT
+PROJECT ALPHA PRIME — CORE INFRASTRUCTURE PLATFORM
+CONTRACT IDENTIFIER: MSA-2026-ALPHA-089
+
+PARTIES AND RECITALS:
+This Master Services Agreement ("Agreement") is executed on June 1, 2026, by and between:
+1. SPONSOR: Apex Global Financial Services Corp., represented by Elena Rostova, Principal Contract Officer.
+2. VENDOR: NovaSynthetix Enterprise Systems LLC, represented by Marcus Vance, Lead Delivery Director.
+
+ARTICLE 1: PURPOSE AND SCOPE OF WORK
+Vendor shall design, construct, test, and deploy the Project Alpha Prime Intelligent Document Reasoning Engine and Core Financial Ingestion Platform. All system components must achieve production readiness, high-availability multi-region fault tolerance, and automated compliance auditing as detailed in Schedule A.
+
+--- PAGE 2 ---
+ARTICLE 3: PROJECT SCHEDULE, MILESTONES, AND ACCEPTANCE
+Section 3.1: Milestone Schedule:
+- Milestone 1: Architectural Foundation, Ingestion Engine & Schema Pipeline — July 30, 2026.
+- Milestone 2: Hybrid Retrieval Engine & Semantic Indexing — September 30, 2026.
+- Milestone 3: Core Banking API Integration & Multi-Document Reasoning Gateway — October 31, 2026.
+- Final Acceptance Testing & Production Go-Live: November 15, 2026.
+
+Section 3.2: Delay and Liquidated Damages:
+Time is of the essence. In the event of unexcused delay beyond the final completion date of November 15, 2026, Vendor shall pay liquidated damages of $5,000 USD per business day until formal acceptance is executed, up to an aggregate cap of $250,000 USD.
+
+--- PAGE 3 ---
+ARTICLE 4: COMPENSATION, BUDGET CEILING, AND PAYMENT TERMS
+Section 4.1: Fixed-Price Contract Cap:
+The total agreed compensation for all deliverables, licenses, infrastructure setup, and professional services under this Agreement shall not exceed $1,250,000 USD ("Approved Contract Ceiling"). 
+
+Section 4.2: Scope Changes and Cost Overruns:
+Vendor shall not incur any reimbursable expenditure or invoice amounts exceeding $1,250,000 USD without a formal, written Bilateral Contract Amendment signed by both Elena Rostova (Sponsor) and Marcus Vance (Vendor). Any unilateral expense in excess of this ceiling shall be borne exclusively by the Vendor.
+
+--- PAGE 4 ---
+ARTICLE 5: QUALITY METRICS AND TECHNICAL STANDARDS
+Section 5.1: Engineering Quality Gates:
+Vendor must maintain a minimum of 90.0% automated unit test coverage across all microservices and business logic layers prior to production deployment.
+
+ARTICLE 6: CLIENT DEPENDENCIES AND INTEGRATION OBLIGATIONS
+Section 6.3: Third-Party Banking Integration Credentials:
+Sponsor warrants that all necessary API tokens, mutual TLS certificates, and compliance authorization for the Tier-1 Core Banking Gateway shall be delivered to Vendor within 14 calendar days of contract execution (no later than June 15, 2026). Delays caused by Sponsor's failure to furnish required access shall constitute an Excusable Delay.
